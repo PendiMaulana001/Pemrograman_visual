@@ -1,3 +1,7 @@
+<img width="406" alt="image" src="https://github.com/user-attachments/assets/d4504cbc-470f-4bfa-aeba-b9b1bfe99f7a" />
+LINK DESAIN TAMPILAN DI FIGMA : https://www.figma.com/design/cTPNKSfi2D3fo1yLE31SXW/jual-tiket-masuk-bandara?node-id=0-1&t=Nf4BZGAAI9l8LiwB-1
+
+
 IDE AWAL APLIKASI DESKTOP "JUAL TIKET MASUK BANDARA"
 
 Nama Aplikasi: JualTiket  Masuk Bandara
