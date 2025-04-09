@@ -1,36 +1,35 @@
-<img width="406" alt="image" src="https://github.com/user-attachments/assets/d4504cbc-470f-4bfa-aeba-b9b1bfe99f7a" />
+<img width="563" alt="image" src="https://github.com/user-attachments/assets/a0aec73b-9bcd-4a12-a0e9-5eea88629eeb" />
 
-LINK DESAIN TAMPILAN DI FIGMA : https://www.figma.com/design/cTPNKSfi2D3fo1yLE31SXW/jual-tiket-masuk-bandara?node-id=0-1&t=Nf4BZGAAI9l8LiwB-1
+LINK DESAIN TAMPILAN DI FIGMA : https://www.figma.com/proto/yBRdjeaduXhaZZwNw6Dkjo/TOKO-ELEKTRONIK-PM?node-id=0-1&t=jJB2RZ3ZjWmVMGZH-1
 
+IDE AWAL APLIKASI DESKTOP "TOKO ELEKTRONIK PM"
 
-IDE AWAL APLIKASI DESKTOP "JUAL TIKET MASUK BANDARA"
+Nama Aplikasi: Toko Elektronik PM
 
-Nama Aplikasi: JualTiket  Masuk Bandara
+Tujuan: Membuat aplikasi desktop sederhana untuk membantu staf toko elektronik dalam mengelola data barang yang dijual. Aplikasi ini akan menyimpan informasi barang secara terstruktur dan memungkinkan pengelolaan data dengan mudah melalui antarmuka pengguna yang intuitif.
 
-Tujuan: Membuat aplikasi desktop sederhana untuk membantu petugas bandara dalam mengelola data penjualan tiket masuk. Aplikasi ini akan menyimpan informasi tiket secara terstruktur dan memungkinkan pengelolaan data secara efisien menggunakan antarmuka pengguna yang mudah dipahami.
+Permasalahan: Pencatatan data barang yang dilakukan secara manual sering menyebabkan kesalahan dan membuat proses pengecekan stok menjadi tidak efisien. Dibutuhkan sebuah aplikasi yang mampu mencatat, menampilkan, memperbarui, dan menghapus data barang secara cepat dan akurat untuk mendukung operasional toko.
 
-Permasalahan: Petugas bandara sering kali mencatat tiket masuk secara manual, yang rawan kesalahan dan sulit dikelola jika jumlah data banyak. Dibutuhkan aplikasi sederhana yang dapat membantu mencatat, menampilkan, memperbarui, dan menghapus data tiket dengan cepat dan akurat.
-
-Solusi: Membuat aplikasi berbasis Windows Forms yang menyediakan fitur CRUD (Create, Read, Update, Delete) untuk data tiket masuk. Aplikasi akan terhubung dengan database SQL Server untuk penyimpanan data secara terpusat dan aman.
+Solusi: Membuat aplikasi berbasis Windows Forms (WinForms) yang menyediakan fitur CRUD (Create, Read, Update, Delete) untuk data barang elektronik. Aplikasi akan terhubung dengan database SQL Server sebagai media penyimpanan utama yang aman dan terpusat.
 
 Fitur yang Direncanakan:
-1. Input Data Tiket
-NO (Nomer tiket)
-DATE (Tanggal Keberangkatan)
-FROM (Asal Penerbangan)
-DESTINATION (Tujuan Penerbangan)
-2. Tampilkan Data Tiket
-Menggunakan DataGridView untuk melihat semua data tiket yang tersimpan di database.
-3. Update Data Tiket
-Mengubah informasi tiket yang sudah tersimpan.
-4. Hapus Data Tiket
-Menghapus data tiket berdasarkan nomor tiket.
-5. Koneksi Database SQL Server
-Nama database: BandaraDB
-Server: DESKTOP-HAIN24I\TIKET
-Menggunakan Integrated Security (tanpa username/password).
-6. Antarmuka Sederhana
-TextBox untuk input teks
-DateTimePicker untuk tanggal
-DataGridView untuk tampilan data
-MessageBox untuk notifikasi/konfirmasi tindakan
+
+Input Data Barang Input data meliputi: Nama Barang, Merek, Harga, dan Stok melalui TextBox.
+
+Tampilkan Data Barang Menampilkan seluruh data barang yang tersimpan menggunakan DataGridView agar mudah dipantau dan dicari.
+
+Update Data Barang Memungkinkan pengguna untuk mengubah informasi barang jika ada kesalahan input atau perubahan harga dan stok.
+
+Hapus Data Barang Menghapus data barang berdasarkan nama barang jika sudah tidak dijual atau stok habis.
+
+Koneksi Database SQL Server Nama database: ElektronikDB Server: DESKTOP-HAIN24I\TIKET Menggunakan Integrated Security (tanpa username/password).
+
+Antarmuka Sederhana:
+
+TextBox untuk input data Nama, Merek, Harga, dan Stok.
+
+DataGridView untuk menampilkan data secara real-time.
+
+Tombol aksi untuk Tambah, Tampilkan, Ubah, dan Hapus.
+
+MessageBox sebagai notifikasi tindakan berhasil atau gagal.
