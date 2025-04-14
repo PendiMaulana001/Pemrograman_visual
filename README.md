@@ -29,7 +29,7 @@ Memperbarui Merek, Harga, dan Stok.
 4. Hapus Data
 Hapus data berdasarkan Nama Barang.
 
-5.Komponen Tampilan (UI) Yang di gunakan:
+Komponen Tampilan (UI) Yang di gunakan:
 Label dan TextBox untuk input data.
 Tombol: Tambah, Ubah, Hapus, Tampil.
 DataGridView untuk menampilkan data.
