@@ -5,7 +5,7 @@ LINK DESAIN FIGMA: https://www.figma.com/proto/yBRdjeaduXhaZZwNw6Dkjo/TOKO-ELEKT
 IDE  Aplikasi "Toko Elektronik PM"
 
 Toko Elektronik PM adalah aplikasi desktop berbasis Windows Forms (WinForms) yang dibuat untuk membantu pengelolaan data barang di toko elektronik. Aplikasi ini menggunakan C# sebagai bahasa pemrograman dan SQL Server sebagai database penyimpanan.
-
+ 
 Fitur Utama:
 
 1. CRUD Data Barang
