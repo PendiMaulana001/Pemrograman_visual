@@ -1,26 +1,19 @@
-Deskripsi dari program web rumah sakit 
+![TOKO ELEKTRONIK PM](https://github.com/user-attachments/assets/0e2cad5e-2b74-4f30-a216-1a3609e1f5fa)
+
+LINK DESAIN FIGMA: https://www.figma.com/proto/yBRdjeaduXhaZZwNw6Dkjo/TOKO-ELEKTRONIK-PM?node-id=0-1&t=jJB2RZ3ZjWmVMGZH-1
+
+IDE  Aplikasi "Toko Elektronik PM"
+
+Toko Elektronik PM adalah aplikasi desktop berbasis Windows Forms (WinForms) yang dibuat untuk membantu pengelolaan data barang di toko elektronik. Aplikasi ini menggunakan C# sebagai bahasa pemrograman dan SQL Server sebagai database penyimpanan.
 
 Fitur Utama:
-Navigasi Dinamis
-Menggunakan menu navigasi dengan tautan yang memungkinkan pengguna berpindah antar bagian halaman tanpa perlu memuat ulang (single-page behavior).
-JavaScript digunakan untuk menampilkan dan menyembunyikan bagian halaman (section) sesuai dengan pilihan pengguna.
-Halaman Beranda
-Menampilkan pesan selamat datang dan visi rumah sakit.
-Halaman Tentang Kami
-Memberikan deskripsi singkat tentang Rumah Sakit Sehat 2025.
-Halaman Layanan
-Menyajikan daftar layanan yang tersedia, seperti rawat inap, rawat jalan, IGD 24 jam, laboratorium, radiologi, poliklinik spesialis, dan fisioterapi.
-Halaman Dokter
-Menampilkan daftar dokter spesialis yang bekerja di rumah sakit.
-Halaman Pendaftaran Online
-Memiliki formulir pendaftaran pasien yang meminta data seperti nama, email, telepon, layanan yang dipilih, dan tanggal kunjungan.
-Formulir menggunakan JavaScript untuk validasi, memastikan semua kolom diisi sebelum dikirim.
-Halaman Kontak
-Menampilkan informasi kontak rumah sakit seperti email, telepon, dan alamat.
-Teknologi yang Digunakan:
-HTML: Struktur dasar halaman.
-CSS (melalui styles.css): Untuk mempercantik tampilan (meskipun tidak ditampilkan dalam kode di atas).
-JavaScript:
-Mengontrol navigasi tanpa reload halaman.
-Menyembunyikan dan menampilkan bagian halaman sesuai pilihan pengguna.
-Melakukan validasi pada formulir pendaftaran.
+
+1. CRUD Data Barang
+
+Tambah: Menyimpan data barang baru ke database berdasarkan input pengguna (Nama Barang, Merek, Harga, Stok).
+
+Tampil: Menampilkan seluruh data barang dari database ke dalam DataGridView.
+
+Ubah: Memperbarui data barang berdasarkan NamaBarang. Saat pengguna memasukkan nama barang yang ingin diubah, sistem akan mengganti data merek, harga, dan stok sesuai input baru.
+
+Hapus: Menghapus data barang berdasarkan NamaBarang. Ketika pengguna mengetik nama barang dan menekan tombol hapus, data barang dengan nama tersebut akan dihapus dari database.
