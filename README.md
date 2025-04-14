@@ -2,18 +2,35 @@
 
 LINK DESAIN FIGMA: https://www.figma.com/proto/yBRdjeaduXhaZZwNw6Dkjo/TOKO-ELEKTRONIK-PM?node-id=0-1&t=jJB2RZ3ZjWmVMGZH-1
 
-IDE  Aplikasi "Toko Elektronik PM"
+IDE PROJEK 
 
-Toko Elektronik PM adalah aplikasi desktop berbasis Windows Forms (WinForms) yang dibuat untuk membantu pengelolaan data barang di toko elektronik. Aplikasi ini menggunakan C# sebagai bahasa pemrograman dan SQL Server sebagai database penyimpanan.
- 
+Nama Projek : Elektronik PM 
+
+Deskripsi Singkat Proyek:
+Proyek ini bertujuan untuk membuat aplikasi desktop yang dapat membantu pengelola toko elektronik dalam melakukan manajemen data barang secara efisien, seperti menambah, mengubah, menghapus, dan menampilkan data barang.
+
+Tujuan:
+Mempermudah proses pengelolaan inventaris barang elektronik.
+Meningkatkan akurasi dan efisiensi pengelolaan data barang.
+Mengurangi risiko kehilangan data dengan penyimpanan di database SQL Server.
+
 Fitur Utama:
+1. Tambah Barang
+Input data: Nama Barang, Merek, Harga, Stok.
+Simpan ke database.
 
-1. CRUD Data Barang
+2. Tampil Data
+Menampilkan semua data barang dalam DataGridView.
 
-Tambah: Menyimpan data barang baru ke database berdasarkan input pengguna (Nama Barang, Merek, Harga, Stok).
+3. Ubah Data
+Perubahan berdasarkan Nama Barang.
+Memperbarui Merek, Harga, dan Stok.
 
-Tampil: Menampilkan seluruh data barang dari database ke dalam DataGridView.
+4. Hapus Data
+Hapus data berdasarkan Nama Barang.
 
-Ubah: Memperbarui data barang berdasarkan NamaBarang. Saat pengguna memasukkan nama barang yang ingin diubah, sistem akan mengganti data merek, harga, dan stok sesuai input baru.
-
-Hapus: Menghapus data barang berdasarkan NamaBarang. Ketika pengguna mengetik nama barang dan menekan tombol hapus, data barang dengan nama tersebut akan dihapus dari database.
+5.Komponen Tampilan (UI) Yang di gunakan:
+Label dan TextBox untuk input data.
+Tombol: Tambah, Ubah, Hapus, Tampil.
+DataGridView untuk menampilkan data.
+Judul aplikasi: Toko Elektronik PM.
