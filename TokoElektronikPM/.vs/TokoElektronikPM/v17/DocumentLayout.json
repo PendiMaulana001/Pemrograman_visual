@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pemrograman visual\\TokoElektronikPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D63A267-836D-4FD3-98D3-01A6E4A09C4F}|TokoElektronikPM\\TokoElektronikPM.csproj|d:\\pemrograman visual\\tokoelektronikpm\\tokoelektronikpm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D63A267-836D-4FD3-98D3-01A6E4A09C4F}|TokoElektronikPM\\TokoElektronikPM.csproj|solutionrelative:tokoelektronikpm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D63A267-836D-4FD3-98D3-01A6E4A09C4F}|TokoElektronikPM\\TokoElektronikPM.csproj|D:\\Pemrograman visual\\TokoElektronikPM\\tokoelektronikpm\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D63A267-836D-4FD3-98D3-01A6E4A09C4F}|TokoElektronikPM\\TokoElektronikPM.csproj|solutionrelative:tokoelektronikpm\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D63A267-836D-4FD3-98D3-01A6E4A09C4F}|TokoElektronikPM\\TokoElektronikPM.csproj|D:\\Pemrograman visual\\TokoElektronikPM\\tokoelektronikpm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D63A267-836D-4FD3-98D3-01A6E4A09C4F}|TokoElektronikPM\\TokoElektronikPM.csproj|solutionrelative:tokoelektronikpm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D63A267-836D-4FD3-98D3-01A6E4A09C4F}|TokoElektronikPM\\TokoElektronikPM.csproj|D:\\Pemrograman visual\\TokoElektronikPM\\tokoelektronikpm\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D63A267-836D-4FD3-98D3-01A6E4A09C4F}|TokoElektronikPM\\TokoElektronikPM.csproj|solutionrelative:tokoelektronikpm\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D63A267-836D-4FD3-98D3-01A6E4A09C4F}|TokoElektronikPM\\TokoElektronikPM.csproj|D:\\Pemrograman visual\\TokoElektronikPM\\tokoelektronikpm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D63A267-836D-4FD3-98D3-01A6E4A09C4F}|TokoElektronikPM\\TokoElektronikPM.csproj|solutionrelative:tokoelektronikpm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pemrograman visual\\TokoElektronikPM\\TokoElektronikPM\\Program.cs",
+              "RelativeDocumentMoniker": "TokoElektronikPM\\Program.cs",
+              "ToolTip": "D:\\Pemrograman visual\\TokoElektronikPM\\TokoElektronikPM\\Program.cs",
+              "RelativeToolTip": "TokoElektronikPM\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:17:57.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Pemrograman visual\\TokoElektronikPM\\TokoElektronikPM\\LoginForm.cs",
+              "RelativeDocumentMoniker": "TokoElektronikPM\\LoginForm.cs",
+              "ToolTip": "D:\\Pemrograman visual\\TokoElektronikPM\\TokoElektronikPM\\LoginForm.cs",
+              "RelativeToolTip": "TokoElektronikPM\\LoginForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:10:39.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\TokoElektronikPM\\TokoElektronikPM\\LoginForm.cs",
+              "RelativeDocumentMoniker": "TokoElektronikPM\\LoginForm.cs",
+              "ToolTip": "D:\\Pemrograman visual\\TokoElektronikPM\\TokoElektronikPM\\LoginForm.cs [Design]",
+              "RelativeToolTip": "TokoElektronikPM\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:05:57.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Pemrograman visual\\TokoElektronikPM\\TokoElektronikPM\\Form1.cs",
+              "RelativeDocumentMoniker": "TokoElektronikPM\\Form1.cs",
+              "ToolTip": "D:\\Pemrograman visual\\TokoElektronikPM\\TokoElektronikPM\\Form1.cs",
+              "RelativeToolTip": "TokoElektronikPM\\Form1.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAuwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:36:42.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\TokoElektronikPM\\TokoElektronikPM\\Form1.cs",
+              "RelativeDocumentMoniker": "TokoElektronikPM\\Form1.cs",
+              "ToolTip": "D:\\Pemrograman visual\\TokoElektronikPM\\TokoElektronikPM\\Form1.cs [Design]",
+              "RelativeToolTip": "TokoElektronikPM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:18:24.841Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
