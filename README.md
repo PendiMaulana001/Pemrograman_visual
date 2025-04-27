@@ -1,6 +1,6 @@
-![TOKO ELEKTRONIK PM](https://github.com/user-attachments/assets/0e2cad5e-2b74-4f30-a216-1a3609e1f5fa)
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/7b76d01c-0263-49a6-a9c2-6363cacf3c29" />
 
-LINK DESAIN FIGMA: https://www.figma.com/proto/yBRdjeaduXhaZZwNw6Dkjo/TOKO-ELEKTRONIK-PM?node-id=0-1&t=jJB2RZ3ZjWmVMGZH-1
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/7b4cb06d-78b0-4124-9ba7-035bb4ff36fb" />
 
 IDE PROJEK 
 
@@ -29,8 +29,11 @@ Memperbarui Merek, Harga, dan Stok.
 4. Hapus Data
 Hapus data berdasarkan Nama Barang.
 
+5.cari data
+cari data berdasarkan nama barang.
+
 Komponen Tampilan (UI) Yang di gunakan:
 Label dan TextBox untuk input data.
-Tombol: Tambah, Ubah, Hapus, Tampil.
+Tombol: Tambah, Ubah, Hapus, Tampil,cari data.
 DataGridView untuk menampilkan data.
 Judul aplikasi: Toko Elektronik PM.
