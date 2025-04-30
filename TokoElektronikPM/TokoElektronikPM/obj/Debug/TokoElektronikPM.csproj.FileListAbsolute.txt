@@ -1,0 +1,13 @@
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\bin\Debug\TokoElektronikPM.exe.config
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\bin\Debug\TokoElektronikPM.exe
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\bin\Debug\TokoElektronikPM.pdb
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\obj\Debug\TokoElektronikPM.csproj.AssemblyReference.cache
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\obj\Debug\TokoElektronikPM.Form1.resources
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\obj\Debug\TokoElektronikPM.Properties.Resources.resources
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\obj\Debug\TokoElektronikPM.csproj.GenerateResource.cache
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\obj\Debug\TokoElektronikPM.csproj.CoreCompileInputs.cache
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\obj\Debug\TokoElektronikPM.exe
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\obj\Debug\TokoElektronikPM.pdb
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\obj\Debug\TokoElektronikPM.LoginForm.resources
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\obj\Debug\TokoElektronikPM.Form3.resources
+D:\Pemrograman visual\TokoElektronikPM\TokoElektronikPM\obj\Debug\TokoElektronikPM.Form4.resources
