@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C181063B-AE9D-47F1-8180-44DBDC500625}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SistemTokoPm</RootNamespace>
+    <AssemblyName>SistemTokoPm</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AkunService.cs" />
+    <Compile Include="BarangRepository.cs" />
+    <Compile Include="FormCariBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCariBarang.Designer.cs">
+      <DependentUpon>FormCariBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarGaji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarGaji.Designer.cs">
+      <DependentUpon>FormDaftarGaji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarHadir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarHadir.Designer.cs">
+      <DependentUpon>FormDaftarHadir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDashboardAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDashboardAdmin.Designer.cs">
+      <DependentUpon>FormDashboardAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDashboardKaryawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDashboardKaryawan.Designer.cs">
+      <DependentUpon>FormDashboardKaryawan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDashboardManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDashboardManager.Designer.cs">
+      <DependentUpon>FormDashboardManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataBarang.Designer.cs">
+      <DependentUpon>FormDataBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataGaji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataGaji.Designer.cs">
+      <DependentUpon>FormDataGaji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataHadir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataHadir.Designer.cs">
+      <DependentUpon>FormDataHadir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahAkun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahAkun.Designer.cs">
+      <DependentUpon>FormTambahAkun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahBarang.Designer.cs">
+      <DependentUpon>FormTambahBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GajiRepository.cs" />
+    <Compile Include="KehadiranRepository.cs" />
+    <Compile Include="koneksi.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormCariBarang.resx">
+      <DependentUpon>FormCariBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarGaji.resx">
+      <DependentUpon>FormDaftarGaji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarHadir.resx">
+      <DependentUpon>FormDaftarHadir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDashboardAdmin.resx">
+      <DependentUpon>FormDashboardAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDashboardKaryawan.resx">
+      <DependentUpon>FormDashboardKaryawan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDashboardManager.resx">
+      <DependentUpon>FormDashboardManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataBarang.resx">
+      <DependentUpon>FormDataBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataGaji.resx">
+      <DependentUpon>FormDataGaji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataHadir.resx">
+      <DependentUpon>FormDataHadir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahAkun.resx">
+      <DependentUpon>FormTambahAkun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahBarang.resx">
+      <DependentUpon>FormTambahBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

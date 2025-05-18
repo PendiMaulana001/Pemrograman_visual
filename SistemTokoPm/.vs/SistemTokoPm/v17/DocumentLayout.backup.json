@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pemrograman visual\\SistemTokoPm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdatahadir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdatahadir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\gajirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\gajirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdatabarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdatabarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdatagaji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdatagaji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|d:\\pemrograman visual\\sistemtokopm\\sistemtokopm\\formdatagaji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdatagaji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdaftargaji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdaftargaji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdashboardkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdashboardkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdaftarhadir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdaftarhadir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formcaribarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formcaribarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdashboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdashboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formtambahbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formtambahbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdatahadir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdatahadir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdaftarhadir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdaftarhadir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|D:\\Pemrograman visual\\SistemTokoPm\\sistemtokopm\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C181063B-AE9D-47F1-8180-44DBDC500625}|SistemTokoPm\\SistemTokoPm.csproj|solutionrelative:sistemtokopm\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDataGaji.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDataGaji.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDataGaji.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDataGaji.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormDataGaji.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:46:10.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDataGaji.cs",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDataGaji.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDataGaji.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDataGaji.cs",
+              "RelativeToolTip": "SistemTokoPm\\FormDataGaji.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:05:19.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GajiRepository.cs",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\GajiRepository.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\GajiRepository.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\GajiRepository.cs",
+              "RelativeToolTip": "SistemTokoPm\\GajiRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:37:09.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDataBarang.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDataBarang.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDataBarang.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDataBarang.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormDataBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:13:58.093Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDataHadir.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDataHadir.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDataHadir.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDataHadir.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormDataHadir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T03:38:44.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDaftarGaji.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDaftarGaji.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDaftarGaji.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDaftarGaji.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormDaftarGaji.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:00:12.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDashboardKaryawan.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDashboardKaryawan.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDashboardKaryawan.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDashboardKaryawan.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormDashboardKaryawan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:14:40.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDashboardAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDashboardAdmin.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDashboardAdmin.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDashboardAdmin.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormDashboardAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:32:14.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDaftarHadir.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDaftarHadir.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDaftarHadir.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDaftarHadir.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormDaftarHadir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T03:37:04.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormCariBarang.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormCariBarang.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormCariBarang.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormCariBarang.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormCariBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:14:58.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDashboardManager.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDashboardManager.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDashboardManager.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDashboardManager.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormDashboardManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:14:35.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormTambahBarang.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormTambahBarang.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormTambahBarang.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormTambahBarang.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormTambahBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:14:11.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormDataHadir.cs",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDataHadir.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDataHadir.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDataHadir.cs",
+              "RelativeToolTip": "SistemTokoPm\\FormDataHadir.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T03:42:57.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDaftarHadir.cs",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDaftarHadir.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDaftarHadir.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDaftarHadir.cs",
+              "RelativeToolTip": "SistemTokoPm\\FormDaftarHadir.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T03:42:06.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormLogin.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormLogin.cs [Design]",
+              "RelativeToolTip": "SistemTokoPm\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:12:34.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormDashboardAdmin.cs",
+              "DocumentMoniker": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDashboardAdmin.cs",
+              "RelativeDocumentMoniker": "SistemTokoPm\\FormDashboardAdmin.cs",
+              "ToolTip": "D:\\Pemrograman visual\\SistemTokoPm\\SistemTokoPm\\FormDashboardAdmin.cs",
+              "RelativeToolTip": "SistemTokoPm\\FormDashboardAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:40:20.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
